@@ -6,8 +6,8 @@ class Gdal2 < Formula
   revision 2
 
   bottle do
-    root_url "http://qgis.dakotacarto.com/bottles"
-    sha256 "5555d6abffdfecffc27b10ef02720cbaedb966944b898498aa799e7c052b9d2a" => :sierra
+    root_url "https://github.com/m-kuhn/homebrew-osgeo4mac/releases/download/main"
+    sha256 "0eeb8fbb46c801afbb0d5640a164766e514c9887a73ae83b2f6421bbaa45c640" => :el_capitan
   end
 
   head do
